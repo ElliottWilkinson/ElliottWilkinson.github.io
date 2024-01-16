@@ -40,7 +40,7 @@ nav {
 
 h1,
 h2 {
-  font-family: 'Kalam', cursive;
+  font-family: 'Oswald';
   margin: 0;
   text-align: center;
 }
@@ -103,7 +103,7 @@ nav a:hover {
 
 #welcome {
   background-color: #F2CC65;
-  font-family: 'Kalam', cursive;
+  font-family: 'Oswald', cursive;
   text-align: center;
   font-size: 5rem;
   padding: 20px;
