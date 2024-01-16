@@ -43,6 +43,7 @@ h2 {
   font-family: 'Oswald';
   margin: 0;
   text-align: center;
+  color: whitesmoke;
 }
 
 h1 {
@@ -52,11 +53,11 @@ h1 {
 h2 {
   font-size: 2rem;
   font-weight: 400;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 header {
-  background-color: #F2CC65;
+  background-color: teal;
 }
 
 p {
@@ -102,12 +103,13 @@ nav a:hover {
 }
 
 #welcome {
-  background-color: #F2CC65;
+  background-color: teal;
   font-family: 'Oswald', cursive;
   text-align: center;
   font-size: 5rem;
   padding: 20px;
   border-radius: 10px;
+  color: whitesmoke;
 }
 
 @media(max-width: 1024px) {
